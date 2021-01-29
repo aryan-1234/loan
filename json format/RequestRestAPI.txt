@@ -1,0 +1,38 @@
+{
+	"firstName": "qwer",
+	"middleName": "",
+	"lastName": "qwer",
+	"dob": "2020-08-25",
+	"maritalStatus": "single",
+	"ssn": "1234",
+	"loanAmount": 1234545,
+	"loanPurpose": "debt",
+	"description": null,
+	"address": {
+		"addressLine1": "qwer",
+		"addressLine2": "",
+		"city": "qwer",
+		"state": "qwer",
+		"postalCode": 12345
+	},
+	"contactInfo": {
+		"homePhone": 1111111111,
+		"officePhone": 1111111111,
+		"mobileNumber": 1111111111,
+		"email": "q@qw"
+	},
+	"empDetails": {
+		"employerName": "qwere",
+		"salary": 12344,
+		"workExpYear": 21344,
+		"workExpMonth": 12,
+		"designation": "",
+		"empAddress": {
+			"empAddressLine1": "qwer",
+			"empAddressLine2": "",
+			"empCity": "qwer",
+			"empState": "qwer",
+			"empPostalCode": 12345
+		}
+	}
+}

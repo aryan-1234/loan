@@ -1,0 +1,60 @@
+{
+    "ssn":1998,
+    "firstName":"abc",
+    "middleName":"xyz",
+    "lastName":"pqr",
+    "dob":"07-08-2015",
+    "maritalStatus":"Married",
+    "loanAmount":500,
+    "loanPurpose":"Home Loan",
+    "description":"Loan for home.",
+    "addressLine1":"1/339,down street",
+    "addressLine2":"Washington bridge",
+    "city":"Seatle",
+    "state":"New York",
+    "postalCode":12345,
+    "homePhone":67543,
+    "mobileNumber":3456786,
+    "officePhone":87654,
+    "email":"abc@xyz.com",
+    "employerName":"Tesla",
+    "salary":234567,
+    "designation":"SDE",
+    "empAddressLine1":"richmond quarters",
+    "empAddressLine2":"Silicon valley",
+    "empCity":"California",
+    "empState":"Maharashtra",
+    "empPostalCode":45632,
+    "workExpYear":2,
+    "workExpMonth":11
+
+}
+
+
+
+{
+    "ssn":1992,
+    "firstName":"keshav",
+    "lastName":"mdsva",
+    "dob":"16-05-2012",
+    "maritalStatus":"Single",
+    "loanAmount":30054,
+    "loanPurpose":"Education Loan",
+    "addressLine1":"abcde,doejkwfib",
+    "city":"ergr",
+    "state":"avduvew",
+    "postalCode":60000,
+    "homePhone":432167895,
+    "mobileNumber":6789054321,
+    "email":"a123@gmail.com",
+    "employerName":"relia",
+    "salary":5432,
+    "designation":"Skji",
+    "empAddressLine1":"ced quarters",
+    "empCity":"mangalore",
+    "empState":"goa",
+    "empPostalCode":20000,
+    "workExpYear":2
+    
+
+}
